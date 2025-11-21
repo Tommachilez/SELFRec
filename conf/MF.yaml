@@ -1,6 +1,6 @@
-training.set: /content/drive/MyDrive/UIT_DS300_PROJECT/data/ivivu/train.txt
+training.set: /content/drive/MyDrive/UIT_DS300_PROJECT/data/ivivu/weighted_train.txt
 
-test.set: /content/drive/MyDrive/UIT_DS300_PROJECT/data/ivivu/test.txt
+test.set: /content/drive/MyDrive/UIT_DS300_PROJECT/data/ivivu/weighted_test.txt
 
 model:
   name: MF
